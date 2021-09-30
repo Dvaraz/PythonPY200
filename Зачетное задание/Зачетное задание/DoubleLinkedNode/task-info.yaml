@@ -35,5 +35,11 @@ files:
 - name: tests/__init__.py
   visible: false
   learner_created: false
-status: Unchecked
+- name: test_task.py
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 25 Sep 2021 17:08:47 UTC
 record: -1
